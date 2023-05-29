@@ -1,0 +1,15 @@
+.container{
+    margin: auto;
+    display: block;
+    /* fill-opacity: initial; */
+    text-align: center;
+    height:100%;
+    width: 500px;
+    background-color: darkgrey;
+    padding-left: 3rem;
+}
+.content{
+    height:2rem;
+    width: 400px;
+    background-color: wheat;
+}
